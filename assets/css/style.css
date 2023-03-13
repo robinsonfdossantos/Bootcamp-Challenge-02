@@ -1,0 +1,134 @@
+/* Universal selector to adjust the page to the web browser*/
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+/* 'a' is a style to define the paragraph will be a link */
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
+/* Apply the font-size to all paragraphs in the code */
+p {
+    font-size: 16px;
+}
+/* Define the background color */
+body { 
+    background-color: #d9dcd6;
+}
+/* Define the fonts/ family-fonts and colors for the header */
+header { 
+    padding: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: #2a607c;
+    color: #ffffff;
+}
+/* Apply the definitions for header plus the display-block and font-size to evertyhing in <h1></h1> */
+header h1 { 
+    display: inline-block; 
+    font-size: 48px; 
+}
+/* Styles the "seo" letters in the logo in a different color */
+header h1 .seo {
+    color: #d9dcd6;
+}
+/* Has been defined from 'div' to 'nav' to match the code modification to set the elements to navigation */
+header nav {
+    padding-top: 15px;
+    margin-right: 20px;
+    float: right;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+}
+/* Remove the bullet points of the list */
+header div ul {
+    list-style-type: none;
+}
+/* Styles the position of the 'nav' elements*/
+header nav ul li {
+    display: inline-block;
+    margin-left: 25px;
+}
+/* The main image of the page, it works to ensure the right style positioning */
+.hero {
+    height: 800px;
+    width: 100%;
+    margin-bottom: 25px;
+    background-image: url("../images/digital-marketing-meeting.jpg"); /*Brainstorm meeting image*/
+    background-size: cover;
+    background-position: center;
+}
+/* Styles all the elements of the contents*/
+.contents {
+    width: 75%;
+    display: inline-block;
+    margin-left: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+/* All the contents have been alocated to only a class, since they have all the same configuration */
+.content-topic {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+/* Defines the styles to what have been inputed between <h2></h2> */
+.content-topic h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+/* Determine the maximum size of the image*/
+.content-topic img {
+    max-height: 200px;
+}
+/* Define the positioning of image in each content (right or left) */
+.content-topic-float-right {
+    float: right;
+    margin-left: 25px;
+}
+
+.content-topic-float-left {
+    float: left;
+    margin-right: 25px;
+}
+/* Styles all the elements of the benefits*/
+.benefits {
+    margin-right: 20px;
+    padding: 20px;
+    clear: both;
+    float: right;
+    width: 20%;
+    height: 100%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #2589bd;
+}
+/* All benefits have been alocated to only a class, since they have all the same configuration */
+.benefit-item {
+    margin-bottom: 32px;
+    color: #ffffff;
+}
+/* Defines the styles to what have been inputed between <h3></h3> */
+.benefit-item h3 {
+    margin-bottom: 10px;
+    text-align: center;
+}
+/* Defines the positions and space allocated to the images*/
+.benefit-item img {
+    display: block;
+    margin: 10px auto;
+    max-width: 150px;
+}
+/* Styles the the footer's elements */
+footer {
+    padding: 30px;
+    clear: both;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
+/* Defines the styles to what have been inputed between <h2></h2> */
+footer h2 {
+    font-size: 20px;
+}
+
