@@ -15,7 +15,7 @@ This webpage has been developed using VS Code, where the structure was created i
 
 The webpage refers to a marketing company, which aims to optimize and provide solid and profitable technological solutions over the internet.
 
-<img src="./assets/images/digital-marketing-meeting.jpg" alt="Image of a team waiting for a brainstorm meeting" width="60%" height="60%">
+<img src="./assets/images/digital-marketing-meeting.jpg" alt="Image of a team waiting for a brainstorm meeting" width="60%" height="60%" />
 
 The main image is intended to show a committed marketing team sharing ideas to create a powerful project to achieve great results.
 
@@ -27,9 +27,9 @@ Each of the services provided is navigatable to the content inserted on the main
 By clicking and selecting one of this bottoms (Search Engine Optimization / Online Reputation Management / Social Media Marketing) you will addressed to the correspondent topic."
 
 <div display: inline-block;>
-    <img src="./assets/README-files/topic-search-engine-optimization.jpg" alt="Topic " width="40%" height="40%">
-    <img src="./assets/README-files/topic-online-reputation-management.jpg" alt="Webpage header" width="40%" height="40%">
-    <img src="./assets/README-files/topic-social-media-marketing.jpg" alt="Webpage header" width="40%" height="40%">  
+    <img src="./assets/README-files/topic-search-engine-optimization.jpg" alt="Topic " width="40%" height="40%" />
+    <img src="./assets/README-files/topic-online-reputation-management.jpg" alt="Webpage header" width="40%" height="40%" />
+    <img src="./assets/README-files/topic-social-media-marketing.jpg" alt="Webpage header" width="40%" height="40%" />  
 </div>
 
 In addition, you can navigate and look at the benefits that can be reached by the services on the right side of the services.

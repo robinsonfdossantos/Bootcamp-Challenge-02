@@ -190,7 +190,7 @@ footer h2 {
         height: 550px;
       }
     }
-
+/* Action below this point are most applicable when using tablets or mobiles*/
   @media screen and (max-width: 692px) {
     header {
         justify-content: center;
