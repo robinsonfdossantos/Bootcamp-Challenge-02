@@ -38,7 +38,11 @@ The content of the webpage has a Responsive Web Design, designed by CSS that man
 
 ## Credits
 
+<<<<<<< HEAD
 Boot camp team members, who developed the code base to be restructured.
+=======
+Boot camp team members, who developed the base to be restructured.
+>>>>>>> 31c41a474d823363db56bc7461254ae21cbc3725
 
 ## License
 
