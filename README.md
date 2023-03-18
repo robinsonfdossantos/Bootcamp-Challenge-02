@@ -36,7 +36,7 @@ In addition, you can navigate and look at the benefits that can be reached by th
 
 ## Credits
 
-Boot camp team members, who developed the base to the restructured.
+Boot camp team members, who developed the base to be restructured.
 
 ## License
 
