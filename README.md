@@ -34,9 +34,11 @@ By clicking and selecting one of this bottoms (Search Engine Optimization / Onli
 
 In addition, you can navigate and look at the benefits that can be reached by the services on the right side of the services.
 
+The content of the webpage has a Responsive Web Design, designed by CSS that manages the HTML content to be resized, shrink, hide or move to adjust to its needs and looks good on any screen. 
+
 ## Credits
 
-Boot camp team members, who developed the base to the restructured.
+Boot camp team members, who developed the code base to be restructured.
 
 ## License
 
